@@ -1,1 +1,11 @@
 # Bhaskar-Times
+![Screenshot (20)](https://github.com/RaganiTiwari-PHP-dev/Bhaskartime-mini-CORE-PHP-project/assets/154034903/17e2ad1b-7c3e-48c5-8927-29c293b0495f)
+![Screenshot (19)](https://github.com/RaganiTiwari-PHP-dev/Bhaskartime-mini-CORE-PHP-project/assets/154034903/f19d7de4-9b29-4a71-9d9c-726d9ffe1578)
+![Screenshot (18)](https://github.com/RaganiTiwari-PHP-dev/Bhaskartime-mini-CORE-PHP-project/assets/154034903/0974ecc0-a4ec-4602-b07b-8a341f04150e)
+![Screenshot (17)](https://github.com/RaganiTiwari-PHP-dev/Bhaskartime-mini-CORE-PHP-project/assets/154034903/f57fcfee-4ba4-4cd2-ab39-6dda256d723b)
+![Screenshot (16)](https://github.com/RaganiTiwari-PHP-dev/Bhaskartime-mini-CORE-PHP-project/assets/154034903/61257738-26b8-49e2-b242-ed252b5533fa)
+![Screenshot (15)](https://github.com/RaganiTiwari-PHP-dev/Bhaskartime-mini-CORE-PHP-project/assets/154034903/b497ee3d-2979-486a-bab3-0e4647af6783)
+![Screenshot (14)](https://github.com/RaganiTiwari-PHP-dev/Bhaskartime-mini-CORE-PHP-project/assets/154034903/36530b8e-72d5-4190-b09f-23130fb22144)
+![Screenshot (13)](https://github.com/RaganiTiwari-PHP-dev/Bhaskartime-mini-CORE-PHP-project/assets/154034903/3114cce5-645a-4730-9a29-dae3c1b85e50)
+![Screenshot (12)](https://github.com/RaganiTiwari-PHP-dev/Bhaskartime-mini-CORE-PHP-project/assets/154034903/61620066-5438-4ea9-a102-efb46eef158e)
+![Screenshot (11)](https://github.com/RaganiTiwari-PHP-dev/Bhaskartime-mini-CORE-PHP-project/assets/154034903/72fd3650-cdd4-4dc5-8c78-72c42d6f650d)
